@@ -1,4 +1,34 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+}
+
+.navbar {
+    text-align: center;
+}
+
+.container {
+    width: 80%;
+}
+
 .headshot {
     width: 200px;
     height: 200px;
+    border-radius: 50%;
+}
+
+.landingName {
+    font-size: 60px;
+}
+
+.landingTitle {
+    font-size: 40px;
+}
+
+.landingTagLine {
+    font-size: 80px;
 }
